@@ -111,7 +111,7 @@
             </div>
         </div>
         <div class="w-100 text-center py-4 credit">
-            <a href="https://github.com/eevan7a9/e-commerce-fish-store" class="text-light">&#169; 2019: https://github.com/eevan7a9/e-commerce-fish-store</a>
+            <span class="text-light">&#169; Koistore</span>
         </div>
     </div>
 </template>
